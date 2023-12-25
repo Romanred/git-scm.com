@@ -10,7 +10,7 @@
     "grunt-stylelint": "^0.9.0"
   },
   "dependencies": {
-    "stylelint": "^15.10.1",
+    "stylelint": "^16.1.0",
     "stylelint-config-primer": "2.2.3"
   }
 }
