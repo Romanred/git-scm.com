@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "stylelint": "^15.10.1",
-    "stylelint-config-primer": "2.2.3"
+    "stylelint-config-primer": "11.1.1"
   }
 }
